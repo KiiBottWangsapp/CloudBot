@@ -38,7 +38,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
+global.packname = 'Y𝖆кuz𝖆'
 global.author = process.env.AUTHOR
 
 global.multiplier = 69 // The higher, The harder levelup
